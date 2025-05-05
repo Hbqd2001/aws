@@ -14,7 +14,7 @@ export default function Home() {
       </header>
 
       <section className="text-center py-20 bg-gray-100">
-        <h2 className="text-4xl font-bold mb-4">Welcome to Our Product</h2>
+        <h2 className="text-4xl font-bold mb-4">Huynh</h2>
         <p className="mb-6">Build your awesome landing page with ease.</p>
         <button className="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">
           Get Started
